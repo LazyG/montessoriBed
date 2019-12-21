@@ -16,7 +16,7 @@ L = 77"
 
 |Piece ID| 	Qty | Dimensions(WxHxD) 		| Notes				 																		|
 | ---	 | 	---	| ---						| ---   																					|
-| 1    	 |  27	| 1"D x 15.25"L 			| These are the vertical dowels needed 														|
+| 1    	 |  32	| 1"D x 15.25"L 			| These are the vertical dowels needed. Dowel spacing is 4.5" between midpoints, or 3.5" between dowels. 														|
 | 2   	 |  4	| 1.5"Dx3"Wx21.25"L			| These are the 4 vertical posts of the bed.												|
 | 3    	 |  3	| 1.5"Dx3"Wx74"L			| These are the 3 longer horizontal pieces for the lower-front, lower-rear and upper-rear	|
 | 4    	 |  4	| 1.5"Dx3"Wx40"L			| These are the 3 side horizontal pieces for the left lower and upper rails and right rails	|
